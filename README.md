@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Netware411
 - 👀 I’m interested in automation, Android, and RF
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on somethings that can hold my attention longer than this sentance.. 
+- 💞️ I’m looking to collaborate on somethings that can hold my attention longer than this sentence.. 
 - 📫 How to reach me ICQ 33182
 
 <!---
